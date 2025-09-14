@@ -3068,3 +3068,56 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [14Sep2025 16:25:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4182 chunks (98.98%), ETA: 0:00:04, Rate: 10.5 cps, Current: 38, 32
 [14Sep2025 16:25:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4194 chunks (99.27%), ETA: 0:00:02, Rate: 10.6 cps, Current: 38, 44
 [14Sep2025 16:25:56.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4204 chunks (99.50%), ETA: 0:00:02, Rate: 10.5 cps, Current: 38, 52
+[14Sep2025 16:25:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4210 chunks (99.64%), ETA: 0:00:01, Rate: 10.1 cps, Current: 39, 37
+[14Sep2025 16:25:58.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 4220 chunks (99.88%), ETA: 0:00:00, Rate: 9.9 cps, Current: 39, 47
+[14Sep2025 16:25:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 4225 chunks (100.00%), Total time: 0:06:35
+[14Sep2025 16:30:36.282] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[14Sep2025 16:30:36.313] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[14Sep2025 16:30:36.316] [User Authenticator #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/AsyncPlayerPreLoginEvent$Result
+[14Sep2025 16:30:36.317] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MartinChelooo is 0735c2d1-0cd8-36b4-8887-2a0b1aaeda25
+[14Sep2025 16:30:37.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityExhaustionEvent$ExhaustionReason
+[14Sep2025 16:30:37.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerSpawnChangeEvent$Cause
+[14Sep2025 16:30:37.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/WeatherType
+[14Sep2025 16:30:37.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[14Sep2025 16:30:37.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/PlayerModelPart
+[14Sep2025 16:30:37.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/GameMode
+[14Sep2025 16:30:37.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerLoginEvent$Result
+[14Sep2025 16:30:37.855] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/steinborn/krypton/mod/shared/misc/KryptonPipelineEvent
+[14Sep2025 16:30:37.857] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[14Sep2025 16:30:37.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[14Sep2025 16:30:37.946] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player MartinChelooo
+[14Sep2025 16:30:38.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[14Sep2025 16:30:38.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MartinChelooo joined the game
+[14Sep2025 16:30:38.172] [Server thread/INFO] [APTweaks(Player)/]: Player MartinChelooo ServerPlayer['MartinChelooo'/604, l='ServerLevel[world]', x=117.50, y=101.00, z=323.50](MartinChelooo at 117.5,101.0,323.5) logged in and will be protected for 90 secs.
+[14Sep2025 16:30:38.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MartinChelooo[/127.65.20.118:43739] logged in with entity id 604 at ([world]117.5, 101.0, 323.5)
+[14Sep2025 16:30:38.206] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.27603721618652344) to VERY_HIGH (avg. 75.87220001220703)
+[14Sep2025 16:30:38.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$CollisionRule
+[14Sep2025 16:30:38.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[14Sep2025 16:30:38.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[14Sep2025 16:30:38.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/Action
+[14Sep2025 16:30:38.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[14Sep2025 16:30:38.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[14Sep2025 16:30:39.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[14Sep2025 16:30:39.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[14Sep2025 16:30:39.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[14Sep2025 16:30:39.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[14Sep2025 16:30:40.628] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[14Sep2025 16:30:41.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/block/BlockIgniteEvent$IgniteCause
+[14Sep2025 16:30:45.348] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 75.87220001220703) to VERY_LOW (avg. 3.3497474193573)
+[14Sep2025 16:30:53.948] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MartinChelooo was successful validated after 15 secs.
+[14Sep2025 16:30:53.948] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MartinChelooo!
+[14Sep2025 16:33:58.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MartinChelooo issued server command: /gamemode creative
+[14Sep2025 16:33:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MartinChelooo: Set own game mode to Creative Mode]
+[14Sep2025 16:34:02.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/Event$Result
+[14Sep2025 16:34:02.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/InventoryAction
+[14Sep2025 16:34:02.701] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[14Sep2025 16:34:25.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MartinChelooo issued server command: /time set day
+[14Sep2025 16:34:25.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/world/TimeSkipEvent$SkipReason
+[14Sep2025 16:34:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MartinChelooo: Set the time to 1000]
+[14Sep2025 16:34:31.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityDamageEvent$DamageCause
+[14Sep2025 16:35:00.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MartinChelooo issued server command: /spark tps
+[14Sep2025 16:35:00.858] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/event/ClickEvent$Action
+[14Sep2025 16:35:00.861] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[14Sep2025 16:35:00.867] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/FormatUtil
+[14Sep2025 16:35:11.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MartinChelooo issued server command: /mods}
+[14Sep2025 16:35:14.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MartinChelooo issued server command: /mods
