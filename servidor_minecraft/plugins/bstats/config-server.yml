@@ -4,5 +4,5 @@
 # There is no performance penalty associated with having metrics enabled, and data sent to
 # bStats is fully anonymous.
 enabled=true
-server-uuid=7cff9cd7-52fd-4415-8158-37c49eccb87f
+server-uuid=7aa2e796-6b92-453d-b590-804e6cb9a4e5
 log-errors=false
